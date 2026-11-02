@@ -1,5 +1,5 @@
 - **👋 Hi, I’m Yash Barde**
-- IT Engineer | BI Development | Backend | Data analyst @CIFL.
+- IT Engineer | BI Development | Backend | Data analyst
 
 - 📫 How to reach me ...
   yashsbarde@gmail.com
